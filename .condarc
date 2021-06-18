@@ -1,0 +1,6 @@
+ssl_verify: false
+offline: true
+channels:
+  - conda-forge
+  - defaults
+channel_priority: flexible
